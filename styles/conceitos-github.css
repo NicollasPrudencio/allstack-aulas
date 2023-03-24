@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.video-aula{
+    display: flex;
+    background-color: blueviolet;
+    height: 500px;
+    width: 700px;
+}
